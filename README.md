@@ -60,6 +60,7 @@ This project is a machine learning model that predicts whether a tumor is malign
 
 ## 🎯 Conclusion
 Logistic Regression is an effective algorithm for binary classification problems and provides high accuracy on the breast cancer dataset.
+
 colab link:
 https://colab.research.google.com/drive/1OiJLBk3WH2kGPsuPwV-kQG5LpxgoMRXU?usp=sharing
 
